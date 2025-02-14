@@ -3,14 +3,14 @@
   "pageLayout": "two-column",
   "basics": {
     "name": "LychEe",
-    "label": "Senior Full Stack Developer",
+    "label": "Code Developer & Supply Chain new Technology Applier",
     "image": "/touxiang.png",
     "email": "18709783996@163.com",
     "url": "https://www.gcxstudio.cn",
-    "summary": "Born in 2010, I primarily work with TypeScript and JavaScript for full-stack development, and enjoy working with various technologies.",
-    "theme": "red",
+    "summary": "An Architecture To Supply Chain Management with Reinforcement Learning Skill",
+    "theme": "blue",
     "location": {
-      "address": "Nanchang",
+      "address": "University of Macau",
       "city": "Macau",
       "countryCode": "CN",
       "region": "China"
